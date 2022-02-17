@@ -73,3 +73,7 @@ fabric.properties
 
 # Custom
 buildout/
+target/
+dependency-reduced-pom.xml
+TAS-Editor.jar
+.DS_Store
